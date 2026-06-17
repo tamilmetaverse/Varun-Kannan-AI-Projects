@@ -3,60 +3,125 @@
 </p>
 
 <p align="center">
-  <b>AI Developer | Applied Machine Learning | Finance, Quantum, and Medical AI</b>
+  <b>AI Developer | Applied Machine Learning | Finance, Healthcare, and Domain AI</b>
 </p>
 
 <p align="center">
-  <a href="https://github.com/tamilmetaverse?tab=repositories">GitHub</a> •
+  <a href="https://github.com/tamilmetaverse?tab=repositories">Repositories</a> •
   <a href="https://github.com/tamilmetaverse/Retirement-Corpus-Estimator">Finance Project</a> •
-  <a href="https://github.com/tamilmetaverse/hip_implant_quantum_project.git">Hip Implant Project</a> •
-  <a href="https://github.com/tamilmetaverse/AI-astrologer.git">Astro Project</a>
+  <a href="https://github.com/tamilmetaverse/hip_implant_quantum_project">Hip Implant Project</a> •
+  <a href="https://github.com/tamilmetaverse/AI-astrologer">Astro Project</a>
 </p>
 
 ---
 
 ## About Me
 
-I build practical AI and data-driven projects across finance, healthcare, and domain-specific decision tools.
+I build practical AI and analytics projects across finance, healthcare, and domain-specific decision tools.
 
 My work focuses on:
 - machine learning and AI applications
-- analytics and decision support tools
-- research prototypes and applied experimentation
-- polished dashboards and user-friendly interfaces
+- structured data analysis and simulation
+- interactive dashboards and user-facing interfaces
+- retrieval-augmented generation systems
+- LLM-based application design
+- clean, modular, reusable code
+
+---
+
+## What I Build
+
+I prefer building systems that are technically solid, efficient, and easy to use.
+
+- Interactive dashboards for decision-making
+- AI and ML workflows with modular architecture
+- Financial planning and simulation tools
+- Research prototypes with reproducible evaluation
+- Domain-specific assistants and reasoning systems
+- RAG pipelines and LLM-powered applications
+
+---
+
+## Tech Stack
+
+- Python for core application logic, simulation, and data processing
+- Streamlit for interactive dashboards and rapid UI delivery
+- Pandas and NumPy for data handling and numerical computation
+- Plotly for interactive charts and financial visualizations
+- PyTorch and TorchVision for deep learning workflows
+- `timm` for modern vision backbones like Swin Transformer
+- scikit-learn for classical ML baselines and evaluation
+- PennyLane for hybrid quantum-classical experimentation
+- FastAPI for lightweight backend demos and web app support
+- Matplotlib and Seaborn for analysis and reporting
+- RAG for retrieval-based AI workflows
+- LLMs for reasoning, summarization, and domain-specific assistants
+- Claude Code for AI-assisted development workflows
+- Codex for coding, debugging, and project refinement
 
 ---
 
 ## Featured Projects
 
 ### Retirement Corpus Estimator
-A Streamlit retirement planning dashboard that estimates breakeven corpus, monthly savings, and shortfall/surplus requirements using Indian currency formatting.
+A Streamlit-based retirement planning dashboard that estimates breakeven monthly savings, corpus requirements, and shortfall or surplus outcomes.
 
-- Goal seek for break-even monthly investment
+Key details:
+- Year-by-year simulation of retirement corpus
+- Goal seek for minimum monthly investment
 - Breakeven assistant for corpus and savings gap
-- Year-by-year projection tables
-- Resume-ready finance dashboard
+- Indian numbering format for finance-style readability
+- Interactive charts and tables for planning and review
 
 Repo: [Retirement-Corpus-Estimator](https://github.com/tamilmetaverse/Retirement-Corpus-Estimator)
 
 ### Hybrid Quantum-Classical Hip Implant Identification
-A standalone research prototype combining Swin embeddings, classical baselines, and a hybrid quantum-classical model for hip implant identification.
+A research-focused medical AI prototype that benchmarks classical machine learning and hybrid quantum-classical models on the same embedding space.
 
-- Swin Transformer embeddings
-- Classical benchmarks: Logistic Regression, SVM, MLP
+Key details:
+- Swin Transformer embeddings for image feature extraction
+- Classical baselines such as Logistic Regression, SVM, and MLP
 - PennyLane-based hybrid quantum-classical classifier
-- Reporting and evaluation pipeline
+- Modular pipeline for splits, embeddings, training, and reporting
+- Designed for reproducible benchmarking and comparison
 
-Repo: [hip_implant_quantum_project](https://github.com/tamilmetaverse/hip_implant_quantum_project.git)
+Repo: [hip_implant_quantum_project](https://github.com/tamilmetaverse/hip_implant_quantum_project)
 
 ### AI Astrologer
-A domain-specific AI project for astrology-based querying and guidance.
+A domain-specific AI project built around retrieval and structured reasoning for astrology-style user queries.
 
-- Retrieval and reasoning workflow
-- Natural-language user interaction
-- Tailored domain experience
+Key details:
+- Retrieval and response pipeline
+- Tailored user experience for domain-specific queries
+- Built for fast iteration and extensibility
+- Example of applied LLM-style product design
 
-Repo: [AI-astrologer](https://github.com/tamilmetaverse/AI-astrologer.git)
+Repo: [AI-astrologer](https://github.com/tamilmetaverse/AI-astrologer)
+
+---
+
+## Engineering Approach
+
+My projects emphasize:
+- modular architecture instead of monolithic scripts
+- lightweight simulation and inference flows
+- reusable components for training, evaluation, and reporting
+- separation between feature extraction and downstream modeling
+- interactive outputs that are easy to review and extend
+- practical use of RAG and LLM workflows where they add value
+
+This keeps the work maintainable, efficient, and straightforward to present.
+
+---
+
+## Selected Work
+
+- Built a Streamlit finance dashboard for retirement corpus planning
+- Implemented goal-seek logic to estimate break-even monthly savings
+- Developed a breakeven assistant to compare current plan vs required plan
+- Created a quantum-classical benchmarking pipeline for a medical AI research prototype
+- Designed modular AI workflows for analysis, training, and evaluation
+- Worked with RAG, LLMs, Claude Code, and Codex-assisted development
 
 ---
 
@@ -69,17 +134,13 @@ Repo: [AI-astrologer](https://github.com/tamilmetaverse/AI-astrologer.git)
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/PennyLane-8A2BE2?style=for-the-badge&logo=quantum&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-1F2937?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLMs-111827?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude_Code-5B21B6?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Codex-0F172A?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
-
----
-
-## What I Build
-
-- AI and ML applications
-- Financial planning tools
-- Research prototypes
-- Interactive dashboards
-- Decision-support systems
 
 ---
 
